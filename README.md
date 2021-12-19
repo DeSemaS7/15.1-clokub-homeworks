@@ -121,6 +121,6 @@ output "internal_ip_address_private_vm" {
 
 ![nat](vm_nat.png)
 
-А теперь со второй вм, водключенной к rivate подсети:
+А теперь со второй вм, подключенной к rivate подсети. Используем первую вм как проксю:
 ![private](vm_private.png)
 
