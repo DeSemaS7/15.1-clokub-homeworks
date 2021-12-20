@@ -1,0 +1,4 @@
+/terracloud-yandex/variables.tf
+/terracloud-yandex/terraform.tfstate.backup
+/terracloud-yandex/terraform.tfstate
+/terracloud-yandex/.terraform.lock.hcl
